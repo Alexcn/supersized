@@ -1,0 +1,24 @@
+{
+  "name": "supersized",
+  "version": "3.2.1",
+  "description": "Full screen background slideshow plugin for jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itpubs/supersized.git"
+  },
+  "keywords": [
+    "plugin",
+    "for",
+    "jQuery"
+  ],
+  "author": "Alex.Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itpubs/supersized/issues"
+  },
+  "homepage": "https://github.com/itpubs/supersized#readme"
+}
